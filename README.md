@@ -96,5 +96,3 @@ Admin side Patient Management
 
 ![7](https://user-images.githubusercontent.com/52970601/132249481-e19e8482-1e49-4e80-8ee4-ceefb09a64e7.png)
 
-# Publication
-Paper entitled “Ru-Urb IoT-AI powered Healthcare Kit” is presented at “5th International Conference on Intelligent Computing and Control Systems ICICCS 2021” by “Shreya Bhutada”, “Akshata Singh”, “Purvika Gaikar ”and “Kaushiki Upadhyaya”.
